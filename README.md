@@ -21,9 +21,7 @@ PKNU 딥러닝AI개론(Introduction to Deep Learning AI) 과제
 - [ ] Training Sequence DeepLearning Model at `PyTorch` 
 
 # Workspace Structure
-아래와 같이 데이터베이스 디렉토리를 생성해 주세요.
+아래와 같이 데이터베이스안에 데이터를 추가 해 주세요.
 ```bash
-./
-+---+--- database ---+--- IMDB Dataset.csv
-                     +--- *_review.json
+./database/IMDB Dataset.csv
 ```
