@@ -18,6 +18,7 @@ PKNU 딥러닝AI개론(Introduction to Deep Learning AI) 과제
 
 # Tasks
 - [x] RottenTomato Review Crawler
+- [ ] Text preprocessing
 - [ ] Training Sequence DeepLearning Model at `PyTorch` 
 
 # Workspace Structure

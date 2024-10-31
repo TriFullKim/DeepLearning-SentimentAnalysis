@@ -1,6 +1,7 @@
 # User Ignore
 database/**/*.json
 database/**/*.csv
+database/**/*.pkl
 
 
 # Byte-compiled / optimized / DLL files
