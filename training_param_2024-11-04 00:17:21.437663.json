@@ -1,0 +1,1 @@
+{"voca_frequency_thresold": 3, "token_truncation": 256, "lr": 0.0001, "batch_size": 256, "embed_dim": 128, "rnn_hidden_dim": 512, "output_dim": 2}
