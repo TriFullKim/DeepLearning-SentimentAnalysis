@@ -2,6 +2,8 @@
 database/**/*.json
 database/**/*.csv
 database/**/*.pkl
+database/**/*.pth
+database/**/*.json
 memo.md
 
 *.pth
